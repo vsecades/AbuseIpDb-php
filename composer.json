@@ -1,0 +1,8 @@
+{
+  "name": "qxd/abuseipdb-php",
+  "description": "A wrapper service around the popular AbuseIPDb service.",
+  "require": {
+    "php": ">=8.2"
+  },
+  "license": "MIT"
+}
